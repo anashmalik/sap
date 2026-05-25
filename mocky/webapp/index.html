@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+
+    <title>Mock Server Demo</title>
+
+    <script
+        id="sap-ui-bootstrap"
+        src="https://sdk.openui5.org/resources/sap-ui-core.js"
+        data-sap-ui-theme="sap_horizon"
+        data-sap-ui-libs="sap.m"
+        data-sap-ui-async="true"
+        data-sap-ui-preload="async"
+        data-sap-ui-oninit="module:sap/ui/core/ComponentSupport"
+        data-sap-ui-resourceroots='{
+            "demo.mock.mocky": "./"
+        }'>
+    </script>
+
+</head>
+
+<body class="sapUiBody">
+
+    <div
+        data-sap-ui-component
+        data-name="demo.mock.mocky"
+        data-id="container"
+        data-settings='{"id":"demo.mock.mocky"}'>
+    </div>
+
+</body>
+</html>

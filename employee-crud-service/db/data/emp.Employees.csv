@@ -1,0 +1,14 @@
+empId,empName,empSurname,empDept,empSalary,empLocation,empRole
+
+
+
+EMP0000001,John,Doe,Information Technology,75000.00,New York USA,Developer
+EMP0000002,Alice,Smith,Human Resources,62000.50,London UK,HR Manager
+EMP0000003,Rahul,Sharma,Finance,85000.75,Mumbai India,Accountant
+EMP0000004,Sophia,Johnson,Marketing,68000.00,Sydney Australia,Marketing Lead
+EMP0000005,Michael,Brown,Sales,72000.20,Toronto Canada,Sales Executive
+EMP0000006,Emma,Davis,Operations,79000.40,Berlin Germany,Operations Manager
+EMP0000007,David,Wilson,Research and Development,95000.00,San Francisco USA,Research Analyst
+EMP0000008,Olivia,Taylor,Customer Support,54000.90,Dubai UAE,Support Engineer
+EMP0000009,Daniel,Anderson,Legal,88000.10,Singapore,Sr Legal Advisor
+EMP0000010,Isabella,Thomas,Administration,50000.00,Paris France,Administrator

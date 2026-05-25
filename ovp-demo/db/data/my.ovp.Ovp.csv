@@ -1,0 +1,5 @@
+SalesOrderNo,CustomerName,Amount,Currency,Status
+
+S101,TCS,1000,INR,Open
+S102,IBM,2000,USD,Approved
+S103,Wipro,3000,EUR,Closed
