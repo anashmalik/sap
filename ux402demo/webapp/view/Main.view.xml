@@ -2,7 +2,7 @@
     controllerName="sapux402.demo.ux402demo.controller.Main"
     xmlns:mvc="sap.ui.core.mvc"
     xmlns="sap.m">
-
+ 
     <Page title="UX402 Demo">
         <content>
             <Button
@@ -29,4 +29,5 @@
                 text="0" />
         </content>
     </Page>
+
 </mvc:View>

@@ -1,0 +1,21 @@
+ID,empId,empName,department,designation,salary,currancy
+1,EMP001,Deepika Padukone,HR,HR Manager,65000.00,INR
+2,EMP002,Alia Bhatt,Finance,Accountant,52000.00,INR
+3,EMP003,Katrina Kaif,IT,Software Engineer,78000.00,INR
+4,EMP004,Kiara Advani,Sales,Sales Executive,48000.00,INR
+5,EMP005,Shraddha Kapoor,Marketing,Marketing Manager,70000.00,INR
+6,EMP006,Kriti Sanon,IT,UI5 Developer,85000.00,INR
+7,EMP007,Rashmika Mandanna,Admin,System Administrator,60000.00,INR
+8,EMP008,Samantha Ruth Prabhu,Finance,Financial Analyst,75000.00,INR
+9,EMP009,Tamannaah Bhatia,IT,Backend Developer,82000.00,INR
+10,EMP010,Pooja Hegde,HR,Recruiter,45000.00,INR
+11,EMP011,Nayanthara,Operations,Operations Manager,90000.00,INR
+12,EMP012,Trisha Krishnan,Sales,Sales Manager,68000.00,INR
+13,EMP013,Anushka Shetty,IT,Frontend Developer,77000.00,INR
+14,EMP014,Jacqueline Fernandez,Marketing,Content Strategist,55000.00,INR
+15,EMP015,Disha Patani,Support,Technical Support Engineer,50000.00,INR
+16,EMP016,Kajal Aggarwal,Finance,Auditor,62000.00,INR
+17,EMP017,Taapsee Pannu,Admin,Office Administrator,43000.00,INR
+18,EMP018,Mrunal Thakur,IT,Full Stack Developer,95000.00,INR
+19,EMP019,Yami Gautam,Operations,Logistics Coordinator,47000.00,INR
+20,EMP020,Parineeti Chopra,HR,Talent Acquisition Specialist,58000.00,INR

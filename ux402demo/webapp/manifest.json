@@ -89,7 +89,7 @@
       }
     },
     "rootView": {
-      "viewName": "sapux402.demo.ux402demo.view.Main",
+      "viewName": "sapux402.demo.ux402demo.view.App",
       "type": "XML",
       "id": "App",
       "async": true

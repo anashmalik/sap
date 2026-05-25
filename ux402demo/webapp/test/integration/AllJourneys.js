@@ -1,13 +1,21 @@
 sap.ui.define([
-	"sap/ui/test/Opa5",
-	"./arrangements/Startup",
-	"./NavigationJourney"
-], function (Opa5, Startup) {
+	"sap/ui/test/opaQunit",
+	"./pages/App",
+	"./pages/View1"
+], function (opaTest) {
 	"use strict";
 
-	Opa5.extendConfig({
-		arrangements: new Startup(),
-		viewNamespace: "sapux402.demo.ux402demo.view.",
-		autoWait: true
+	QUnit.module("Navigation Journey");
+
+	opaTest("Should see the initial page of the app", function (Given, When, Then) {
+		// Arrangements
+		Given.iStartMyApp();
+
+		// Assertions
+		Then.onTheAppPage.iShouldSeeTheApp();
+      	Then.onTheViewPage.iShouldSeeThePageView();
+
+		//Cleanup
+		Then.iTeardownMyApp();
 	});
 });
